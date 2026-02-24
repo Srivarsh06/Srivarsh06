@@ -94,7 +94,7 @@ _Dec 2023 – June 2024_
 - Integrated LCD display and piezo buzzer for multimodal alerts.
 - Designed joystick-based UI for improved usability and obstacle detection.
 
-####🧑‍🎓  SteelHacks – AI Resume Builder for Reentry Support
+### 🧑‍🎓  SteelHacks – AI Resume Builder for Reentry Support
 - Developed a React-based AI web app to generate professional resumes.
 - Integrated Gemini API for personalized resume content generation.
 - Iterated UX flow to improve completion rates within a 24-hour hackathon.
