@@ -10,6 +10,7 @@ Hi, my name is Srivarsh and I'm passionate about exploring what Computer Enginee
 ⚙️ I'm interested in building impactful reliable real-world systems across the hardware–software stack
 
 🤖 I'm currently working as an AI Extern at Wayfair developing automated AI research workflows
+
 ---
 
 ### My toolbelt
