@@ -84,12 +84,17 @@ _Dec 2023 – June 2024_
 
 ### Projects
 
+### 🧠 studyBetter — Pulse Hackathon 1st Place Winner
+- Built a Chrome Extension to track study sessions and tab activity using Manifest V3 and Chrome APIs.  
+- Logged session and tab data with `chrome.storage` for productivity analysis.  
+- Developed a Next.js dashboard with Chart.js to visualize focus metrics.  
+
 #### 📡 Arduino Ultrasonic Radar System
 - Built a real-time proximity sensing prototype with radar-style visualization.
 - Integrated LCD display and piezo buzzer for multimodal alerts.
 - Designed joystick-based UI for improved usability and obstacle detection.
 
-#### 🧠 SteelHacks – AI Resume Builder for Reentry Support
+####🧑‍🎓  SteelHacks – AI Resume Builder for Reentry Support
 - Developed a React-based AI web app to generate professional resumes.
 - Integrated Gemini API for personalized resume content generation.
 - Iterated UX flow to improve completion rates within a 24-hour hackathon.
