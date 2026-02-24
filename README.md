@@ -66,12 +66,12 @@ _Feb 2025 – May 2025_
 - Implemented JWT-based authentication and protected user routing.
 - Integrated frontend UI with backend APIs for media upload, comments, and ratings.
 
-### 🧑🏾‍💻 Remote Intern
-Media Systems Inc.
+#### 🌐 Remote Intern  
+Media Systems Inc.  
 _May 2024 – Aug 2024_
-- Migrated legacy site content using Drupal, HTML, and JavaScript to improve front-end performance.
-- Redesigned 5+ high-traffic pages, reducing load time by 10% for 500+ users.
-- Collaborated cross-functionally to improve site architecture, accessibility, and navigation.
+- Migrated legacy website content using Drupal, HTML, and JavaScript to improve front-end performance and maintainability.  
+- Redesigned 5+ high-traffic pages, reducing average load time by ~10% for 500+ active users.  
+- Collaborated cross-functionally to improve site architecture, accessibility, and overall navigation experience.  
 
 #### 🖥️ IT Help Desk Team Member
 Milford Schools  
