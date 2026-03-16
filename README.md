@@ -5,7 +5,7 @@
 ### A little bit about me
 Hi, my name is Srivarsh and I'm passionate about exploring what Computer Engineering has to offer and finding interests in other fields across hardware, software, and bioengineering.
 
-🎓 I'm currently pursuing my B.S. in Computer Engineering at the University of Illinois Urbana-Champaign (Class of 2027)
+🎓 I'm currently pursuing my B.S. in Computer Engineering at the University of Illinois Urbana-Champaign
 
 ⚙️ I'm interested in building impactful reliable real-world systems across the hardware–software stack
 
